@@ -1,0 +1,7 @@
+{
+
+    "Alamofire": "~> 5.4.0",
+    "SwiftyJSON": "~> 4.3.0",
+    "Kingfisher": "~> 6.2.0"
+
+}
